@@ -7,3 +7,4 @@ coverage/
 .vscode/
 .eslintcache
 .idea/
+package-lock.json
